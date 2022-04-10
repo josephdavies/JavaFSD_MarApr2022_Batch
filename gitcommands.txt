@@ -1,0 +1,3 @@
+git remote add origin https://github.com/josephdavies/JavaFSD_MarApr2022_Batch.git   //(one time activity)
+git branch -M main   //(one time activity)
+git push -u origin main   //(do everytime to send local file to github)
