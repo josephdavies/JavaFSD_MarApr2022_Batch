@@ -31,5 +31,6 @@ public class MyClass
 	public static void main(String[] args) 
 	{
 	OtherPackageDerivedClass obj = new OtherPackageDerivedClass(); 
+	System.out.println(obj.a);
 	}
 }
