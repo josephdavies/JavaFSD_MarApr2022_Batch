@@ -56,11 +56,13 @@ public class MyClass
 	{
 		Google m = new Google();
 		System.out.println(m.getPF(10000));
+		System.out.println(m.getCA());
 		Salary s = new Microsoft();
-		
+		Salary t = new Google();
 		System.out.println(s.getCA());
-		
+		System.out.println(t.getCA());
 		System.out.println(s.getSA());
+		System.out.println(t.getPF(100));
 		
 		//System.out.println(s.getCovidAssistance());
 
