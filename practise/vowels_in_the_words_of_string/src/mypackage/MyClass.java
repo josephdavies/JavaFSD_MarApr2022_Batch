@@ -16,18 +16,18 @@ public class MyClass {
 		System.out.println(st);
 		System.out.println("vowel count for each word in the sentence is :");
 		
-		while(obj.hasMoreTokens())
+		while(st.hasMoreTokens())
 		{
 			String word = st.nextToken();
 			System.out.println("processing word is :"+word);
 			int vowelcount = 0;
 			for(char c:word.toCharArray())
 			{
-				c= char.toLowerCase(c);
+				c= Character.toLowerCase(c);
 				if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
 					vowelcount++;
 			}
-		System.out.println("the word"+word+"has vowel count"+vowelcount);
+		System.out.println("the word '"+word+"' has vowel count: "+vowelcount);
 		} 		
 
 	}
