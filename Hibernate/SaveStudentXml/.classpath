@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_333"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/cglib-full-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/dom4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATE/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
