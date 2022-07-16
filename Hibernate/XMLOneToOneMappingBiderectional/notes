@@ -1,0 +1,5 @@
+THIS PROGRAM IS FOR one-to-one bi-direction Mapping using XML .
+
+STUDENT 		ADDRESS
+ in hibernate.cfg.xml file initially use the create property 
+ then comment it and use the update property

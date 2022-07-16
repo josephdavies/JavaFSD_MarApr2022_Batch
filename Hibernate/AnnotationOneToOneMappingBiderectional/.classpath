@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_333"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joseph davies/Desktop/simplilearn/jar files/HIBERNATEANNOTATIONJARS/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
