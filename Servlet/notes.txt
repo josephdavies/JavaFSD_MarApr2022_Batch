@@ -1,0 +1,19 @@
+servlet topics
+
+Http Stateless protocol
+Http Methods (get, put, post, delete, head, trace, options)
+Intro Servlet 
+Servlet Architecture (client, server model with Servelt container)
+Servlet Hierarchey (Servlet, GenericServlet, HttpServlet)
+Life cycle methods of servlet (init,destory,service)
+Web.xml
+doGet, doPost
+ServletConfig, ServletContext
+    Init Param
+    Context Param
+Session Management (HttpSession, UrlRewritting, Cookies, Hidden fields)
+    request.getSession(true/false)
+Servlet Chaining (forward, include)
+Filters
+Listeners
+
