@@ -1,0 +1,5 @@
+use url
+
+http://localhost:8080/JSPJavaExample/customer.jsp
+
+http://localhost:8080/JSPJavaExample/insert.jsp
